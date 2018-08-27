@@ -3,4 +3,4 @@ nginx configuration
 
 [English]
 
-[Korean]
+[Korean](Korean.md)
