@@ -1,6 +1,4 @@
 # nginx-tunning
 nginx configuration
-
-[English]
-
-[Korean](Korean.md)
+* [Korean](Korean.md)  Working
+* [English](English.md)  Empty
